@@ -1,4 +1,4 @@
-📚 The Digital Book Portal
+# The Digital Book Portal
 A full-stack web application designed to digitize library management and book sales. Developed as a 4th Semester Mini Project in Information Science and Engineering.
 
 📝 Project Overview
